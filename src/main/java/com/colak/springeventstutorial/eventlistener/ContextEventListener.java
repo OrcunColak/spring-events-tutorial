@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 @Slf4j
-public class MyEventListener {
+public class ContextEventListener {
 
     @EventListener
     public void handleMyEvent(String event) {
