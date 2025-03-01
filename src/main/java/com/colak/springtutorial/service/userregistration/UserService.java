@@ -1,4 +1,4 @@
-package com.colak.springeventstutorial.service.userregistration;
+package com.colak.springtutorial.service.userregistration;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

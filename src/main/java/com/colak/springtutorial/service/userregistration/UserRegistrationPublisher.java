@@ -1,4 +1,4 @@
-package com.colak.springeventstutorial.service.userregistration;
+package com.colak.springtutorial.service.userregistration;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationEventPublisher;
